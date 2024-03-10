@@ -44,7 +44,7 @@ The trained XGBoost model undergoes rigorous evaluation using various performanc
 
 ## Contributors
 
-- [Your Name](link-to-your-profile) - Project Developer
+- [Muhammad Ansab Sultan]((https://github.com/Ansab-Sultan)) - Project Developer
 
 Contributions to this project are welcome! Feel free to contribute by opening issues or submitting pull requests.
 
